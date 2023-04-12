@@ -1,0 +1,29 @@
+{
+  "name": "@hero-page/hero-nlp-reddit",
+  "version": "1.0.0",
+  "description": "A set of natural language processing functions for generating and optimizing Reddit post content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "hero-nlp-reddit",
+    "natural language processing",
+    "Reddit",
+    "post",
+    "title",
+    "spelling",
+    "sentiment",
+    "analysis",
+    "word count",
+    "keywords density",
+    "replaceAll",
+    "summary",
+    "paragraphs",
+    "content"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
